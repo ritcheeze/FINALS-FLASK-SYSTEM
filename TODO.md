@@ -1,0 +1,5 @@
+- [x] Update lspu_feature_migration.sql curriculum_subjects seeding per provided curriculum for BSIT + BSCS.
+- [x] Ensure SQL script replaces existing curriculum rows per course to reflect new subject lists (BSIT + BSCS).
+- [x] Extend lspu_feature_migration.sql with INSERT blocks for remaining programs (BSCpE, BSDS, BSCY, all business programs, all health programs, and BS Psychology).
+- [x] Run/execute updated SQL in MySQL to apply changes.
+- [x] Verify curriculum_subjects has updated course/year/semester rows for enrollment.php checklist.
